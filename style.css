@@ -3,10 +3,7 @@ body {
      background-color: #fff8f0;
      margin: 30px;
  }
- 
-h1 {
-     color: #7a3e1d;
- }
+
  
 p {
      color: #4a3b32;
@@ -21,4 +18,12 @@ ul {
 button{
     background-color: lightpink;
     font-family: Arial, Helvetica, sans-serif;
+}
+main {
+ background-color: white;
+ padding: 20px;
+ border-radius: 10px;
+}
+h1 {
+ color: #5c3b28;
 }
